@@ -44,7 +44,7 @@ const iconData = [
 ];
 const AboutData = {
   title: "About",
-  text: `Welcome! My name is Ofir Safin, a freshly graduated Industrial Engineering and Management professional with a specialization in Information Systems. Full-stack development is not just my expertise, it's my passion. I am proficient in data analysis, automation, and project management, always aiming to create efficient, user-friendly solutions through my deep understanding of front-end and back-end processes. This portfolio website, crafted entirely using my full-stack development skills, is a testament to my commitment to this field. As I step into the tech industry, I look forward to leveraging my expertise to tackle new challenges and leave my mark. So, go ahead and explore my portfolio to witness my passion for full-stack development in action`,
+  text: `Hi, I'm Ofir Safin, a new Industrial Engineering graduate with a focus on Information Systems. I have a passion for full-stack development, data analysis, and automation. This self-built portfolio shows my commitment to the field. Eager to tackle tech industry challenges, please explore my work to see my skills in action`,
 };
 
 const RandomFacts = [
@@ -146,7 +146,7 @@ const projectData = [
     title: "Portfolio Website",
     text: `This portfolio website, crafted entirely using my full-stack development skills, is a testament to my commitment to this field. As I step into the tech industry, I look forward to leveraging my expertise to tackle new challenges and leave my mark. So, go ahead and explore my portfolio to witness my passion for full-stack development in action`,
     image: logo,
-    link: "https://ofirsafin.herokuapp.com/",
+    link: "https://github.com/ofirsaf/Ofir_Safin_Protfolio.git",
     technologies: ["JavaScript", "React"],
   },
   {
